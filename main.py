@@ -37,8 +37,8 @@ killuser = ["choked on spaghett", "made music like snthe RIP", "just frickin die
 
 
 #####################bot version info##########################################################
-BOT_VER='b0.7'
-BOT_NOTE='Almost doneeeeeeeeeeeeeeeee (SUGGEST ME STUFF WITH $suggest AAAAAAAA)'
+BOT_VER='1.0'
+BOT_NOTE='first stable version oh yea'
 #####################bot version info##########################################################
 
 ###HELP COMMAND#####################################################################################################################
